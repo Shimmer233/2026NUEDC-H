@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "purpose": "confidence_calibration",
+  "default_state": "ignore",
+  "annotation_method": "Visual frame-sequence inspection without using detection confidence to define the retained operating interval.",
+  "independence_status": "These videos were inspected during confidence selection and must not be reused for the final independent acceptance claim.",
+  "source": {
+    "normal": {
+      "path": "C:\\Users\\Light\\Videos\\final_正常往返.mp4",
+      "sha256": "3452082A0FA1B5D19E4B04280032E23B466319C4AC4C033BFBD27B4607330DF9",
+      "frames": 4472
+    },
+    "fast": {
+      "path": "C:\\Users\\Light\\Videos\\final_高速运动.mp4",
+      "sha256": "AD890F9C5BFB515F72C68D27C54CF2BAB5F8FC555C56356E91C4F1FCF615B575",
+      "frames": 1535
+    },
+    "empty": {
+      "path": "C:\\Users\\Light\\Videos\\final_空轨道.mp4",
+      "sha256": "E50EA946721323DB3E37CC2BFBAC29A8BE1F77AD51AD1B53A9F43C164653A30B",
+      "frames": 2013
+    }
+  },
+  "videos": {
+    "normal": [
+      {
+        "start": 0,
+        "end": 519,
+        "state": "ignore",
+        "reason": "empty-track setup and hands placing the ball"
+      },
+      {
+        "start": 520,
+        "end": 3840,
+        "state": "ball",
+        "reason": "unobstructed normal-operation interval"
+      },
+      {
+        "start": 3841,
+        "end": 4471,
+        "state": "ignore",
+        "reason": "hands, reset/removal sequence, stationary tail, and final black frames"
+      }
+    ],
+    "fast": [
+      {
+        "start": 0,
+        "end": 1534,
+        "state": "ball",
+        "reason": "ball visible throughout the high-speed sequence"
+      }
+    ],
+    "empty": [
+      {
+        "start": 0,
+        "end": 2012,
+        "state": "empty",
+        "reason": "complete empty-track interference sequence"
+      }
+    ]
+  }
+}

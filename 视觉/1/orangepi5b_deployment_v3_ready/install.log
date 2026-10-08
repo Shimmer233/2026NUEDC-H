@@ -1,0 +1,20 @@
+命中:1 http://repo.huaweicloud.com/ubuntu-ports jammy InRelease
+命中:2 http://repo.huaweicloud.com/ubuntu-ports jammy-security InRelease
+命中:3 http://repo.huaweicloud.com/ubuntu-ports jammy-updates InRelease
+命中:4 http://repo.huaweicloud.com/ubuntu-ports jammy-backports InRelease
+命中:5 https://repo.huaweicloud.com/docker-ce/linux/ubuntu jammy InRelease
+正在读取软件包列表...
+W: https://repo.huaweicloud.com/docker-ce/linux/ubuntu/dists/jammy/InRelease: 密钥存储在过时的 trusted.gpg 密钥环中（/etc/apt/trusted.gpg），请参见 apt-key(8) 的 DEPRECATION 一节以了解详情。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python3-yaml 已经是最新版 (5.4.1-1ubuntu1)。
+python3-yaml 已设置为手动安装。
+python3-opencv 已经是最新版 (4.5.4+dfsg-9ubuntu4)。
+python3-venv 已经是最新版 (3.10.6-1~22.04.1)。
+下列被要求保持版本不变的软件包将被改变：
+  v4l-utils
+下列软件包将被升级：
+  v4l-utils
+升级了 1 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 46 个软件包未被升级。
+E: 在更改保留软件包的同时使用了 -y 选项，但没有搭配 --allow-change-held-packages.

@@ -1,0 +1,4 @@
+numpy>=1.24,<2.0
+opencv-python>=4.8
+PyYAML>=6.0
+# Install the RK3588/aarch64 rknn_toolkit_lite2 2.3.2 wheel supplied by Rockchip separately.

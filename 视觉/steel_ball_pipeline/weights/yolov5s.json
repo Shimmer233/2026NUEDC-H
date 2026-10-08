@@ -1,0 +1,15 @@
+{
+  "model": "yolov5s",
+  "source": "https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt",
+  "acquisition": "byte-identical local cache after official download timed out",
+  "cache_source": "D:/University/NUEDC/yolov5-master/yolov5-master/weights/yolov5s.pt",
+  "verified_at": "2026-07-30T17:41:29.3703465Z",
+  "size": 14808437,
+  "sha256": "8b3b748c1e592ddd8868022e8732fde20025197328490623cc16c6f24d0782ee",
+  "checkpoint_validation": {
+    "epoch": -1,
+    "classes": 80,
+    "dataset": "COCO",
+    "first_classes": ["person", "bicycle", "car", "motorcycle", "airplane"]
+  }
+}

@@ -1,0 +1,20 @@
+W rknn-toolkit-lite2 version: 2.3.2
+W Query dynamic range failed. Ret code: RKNN_ERR_MODEL_INVALID. (If it is a static shape RKNN model, please ignore the above warning message.)
+Camera /dev/video0: 640x480@120.101, fourcc=MJPG
+Camera controls: {'exposure_absolute': 60, 'gain': 64}
+{
+  "processed_frames": 2914,
+  "last_camera_frame_id": 2913,
+  "last_processed_frame_id": 2913,
+  "duration_seconds": 60.206344348999664,
+  "fusion_fps_median": 49.83221741562415,
+  "latency_ms_p95": 2.548645049910191,
+  "rss_max_mb": 143.52734375,
+  "rss_growth_mb": 59.05859375
+}
+Trajectory CSV: /home/orangepi/orangepi5b_vision_only/runs/manual_v4/20260802T093507Z_empty/trajectory.csv
+I RKNN: [17:35:08.717] RKNN Runtime Information, librknnrt version: 1.6.0 (9a7b5d24c@2023-12-13T17:31:11)
+I RKNN: [17:35:08.717] RKNN Driver Information, version: 0.9.6
+I RKNN: [17:35:08.718] RKNN Model Information, version: 6, toolkit version: 2.3.2(compiler version: 2.3.2 (@2025-04-03T08:26:16)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW, model inference type: static_shape
+W RKNN: [17:35:08.718] RKNN Model version: 2.3.2 not match with rknn runtime version: 1.6.0
+W RKNN: [17:35:08.735] query RKNN_QUERY_INPUT_DYNAMIC_RANGE error, rknn model is static shape type, please export rknn with dynamic_shapes

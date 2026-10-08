@@ -1,0 +1,7 @@
+{
+  "model": "yolov5n",
+  "source": "https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5n.pt",
+  "downloaded_at": "2026-07-30T14:54:19.580693+00:00",
+  "size": 4062133,
+  "sha256": "4f180cf23ba0717ada0badd6c685026d73d48f184d00fc159c2641284b2ac0a3"
+}

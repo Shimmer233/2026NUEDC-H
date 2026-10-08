@@ -1,0 +1,56 @@
+model: models/steel_ball_yolov5n_v4_incremental_int8.rknn
+calibration: config/track_calibration.yaml
+geometry: config/track_geometry.yaml
+camera:
+  device: /dev/video0
+  width: 640
+  height: 480
+  fps: 120
+  fourcc: MJPG
+  controls:
+    power_line_frequency: 0
+    exposure_auto: 1
+    exposure_absolute: 60
+    gain: 64
+roi:
+  x: 10
+  y: 150
+  width: 600
+  height: 105
+  output_width: 470
+  output_height: 110
+stabilization:
+  enabled: false
+  max_shift_px: 8
+  min_response: 0.08
+center_detection:
+  mode: deployment_v3_roi
+coordinate:
+  track_length_cm: 25.0
+  center_cm: 12.5
+  minor_tick_cm: 0.5
+  label_interval_cm: 2
+  axis_offset_px: 18
+detection:
+  input_size: 640
+  confidence_threshold: 0.03
+  iou_threshold: 0.45
+  track_y_min: 25
+  track_y_max: 85
+yolo:
+  normal_hz: 50
+  reacquire_hz: 50
+fusion:
+  yolo_max_age_ms: 80
+  yolo_measurement_std_cm: 0.12
+  innovation_gate_sigma: 5
+tracking:
+  process_acceleration_std: 40.0
+  measurement_std_cm: 0.12
+  max_prediction_frames: 3
+runtime:
+  fusion_hz: 80
+  display_hz: 30
+output:
+  csv: runs/manual_v4/20260802T093406Z_fast/trajectory.csv
+  display: true

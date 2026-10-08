@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-02T09:33:00.895749+00:00",
+  "bundle": "/home/orangepi/rknn_conversion_bundle_v4_incremental",
+  "bundle_manifest_sha256": "f70d0a71a7af3380dfbb1b05b04c5997f5ccdff394a794159244b91a0d8b6b7e",
+  "source_config_sha256": "609cf2244ee36852d5926033c45af6ee47b1c240868af1d56a3264c66816a5d2",
+  "runtime_dependencies": {
+    "config/track_calibration.yaml": {
+      "size": 1297,
+      "sha256": "1e9cc36fc68a77bf5775183936d60d64ecfd24e15098332a85ac76279cb1a4c4"
+    },
+    "config/track_geometry.yaml": {
+      "size": 141,
+      "sha256": "b666665fca5b49f04be34832ddb8c11a916cb82e5f766c9960e5ef2903aedb35"
+    }
+  },
+  "active_model_changed": false,
+  "files": {
+    "models/steel_ball_yolov5n_v4_incremental_int8.rknn": {
+      "size": 2659061,
+      "sha256": "3a30f501db8cd3e1f7a122e37972ad470beebb113ae4570147e9e77f8e44dc69"
+    },
+    "models/steel_ball_yolov5n_v4_incremental_int8.json": {
+      "size": 799,
+      "sha256": "c04fd8debe7db6be455160f1f7ec21738ee03f853f12438f6c425291148ef7ac"
+    },
+    "models/steel_ball_yolov5n_v4_incremental_fp16.rknn": {
+      "size": 4672833,
+      "sha256": "a0ac9436f3603d8e036370a1a306462c36aa8711f9501894669f8a6976f0eb39"
+    },
+    "models/steel_ball_yolov5n_v4_incremental_fp16.json": {
+      "size": 675,
+      "sha256": "b1d6296bc1ee95df75bfb20c875b2edbad4d14ea8da88f50e27d8e9e345da640"
+    },
+    "config/vision_v4_incremental_staged.yaml": {
+      "size": 1098,
+      "sha256": "26b949030328fc0f9cbcd3fec7383c491563628e2dfbea7a6a086edcefc6237f"
+    }
+  }
+}

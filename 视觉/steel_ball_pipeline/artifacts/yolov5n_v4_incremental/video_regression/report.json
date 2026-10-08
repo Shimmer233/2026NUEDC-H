@@ -1,0 +1,254 @@
+{
+  "created_at": "2026-08-02T07:36:17.017690+00:00",
+  "purpose": "calibration",
+  "model": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_v4_incremental\\best.onnx",
+  "roi": [
+    5,
+    182,
+    1200,
+    210
+  ],
+  "output_size": [
+    470,
+    110
+  ],
+  "track_y_band": [
+    25.0,
+    85.0
+  ],
+  "total_frames": 9125,
+  "latency_ms_median_onnx_host": 8.195399999749498,
+  "latency_ms_p95_onnx_host": 9.695039999860455,
+  "thresholds": {
+    "0.25": {
+      "empty": {
+        "expected": "empty",
+        "total_video_frames": 2100,
+        "frames": 2100,
+        "ignored_frames": 0,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "total_video_frames": 2628,
+        "frames": 2628,
+        "ignored_frames": 0,
+        "detected": 2628,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "normal": {
+        "expected": "ball",
+        "total_video_frames": 4397,
+        "frames": 4397,
+        "ignored_frames": 0,
+        "detected": 4397,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "combined": {
+        "ball_frames": 7025,
+        "ball_recall": 1.0,
+        "longest_consecutive_misses_per_video": 0,
+        "empty_frames": 2100,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0,
+        "ignored_frames": 0
+      },
+      "passes": true
+    },
+    "0.2": {
+      "empty": {
+        "expected": "empty",
+        "total_video_frames": 2100,
+        "frames": 2100,
+        "ignored_frames": 0,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "total_video_frames": 2628,
+        "frames": 2628,
+        "ignored_frames": 0,
+        "detected": 2628,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "normal": {
+        "expected": "ball",
+        "total_video_frames": 4397,
+        "frames": 4397,
+        "ignored_frames": 0,
+        "detected": 4397,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "combined": {
+        "ball_frames": 7025,
+        "ball_recall": 1.0,
+        "longest_consecutive_misses_per_video": 0,
+        "empty_frames": 2100,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0,
+        "ignored_frames": 0
+      },
+      "passes": true
+    },
+    "0.15": {
+      "empty": {
+        "expected": "empty",
+        "total_video_frames": 2100,
+        "frames": 2100,
+        "ignored_frames": 0,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "total_video_frames": 2628,
+        "frames": 2628,
+        "ignored_frames": 0,
+        "detected": 2628,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "normal": {
+        "expected": "ball",
+        "total_video_frames": 4397,
+        "frames": 4397,
+        "ignored_frames": 0,
+        "detected": 4397,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "combined": {
+        "ball_frames": 7025,
+        "ball_recall": 1.0,
+        "longest_consecutive_misses_per_video": 0,
+        "empty_frames": 2100,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0,
+        "ignored_frames": 0
+      },
+      "passes": true
+    },
+    "0.1": {
+      "empty": {
+        "expected": "empty",
+        "total_video_frames": 2100,
+        "frames": 2100,
+        "ignored_frames": 0,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "total_video_frames": 2628,
+        "frames": 2628,
+        "ignored_frames": 0,
+        "detected": 2628,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "normal": {
+        "expected": "ball",
+        "total_video_frames": 4397,
+        "frames": 4397,
+        "ignored_frames": 0,
+        "detected": 4397,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "combined": {
+        "ball_frames": 7025,
+        "ball_recall": 1.0,
+        "longest_consecutive_misses_per_video": 0,
+        "empty_frames": 2100,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0,
+        "ignored_frames": 0
+      },
+      "passes": true
+    },
+    "0.05": {
+      "empty": {
+        "expected": "empty",
+        "total_video_frames": 2100,
+        "frames": 2100,
+        "ignored_frames": 0,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "total_video_frames": 2628,
+        "frames": 2628,
+        "ignored_frames": 0,
+        "detected": 2628,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "normal": {
+        "expected": "ball",
+        "total_video_frames": 4397,
+        "frames": 4397,
+        "ignored_frames": 0,
+        "detected": 4397,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "combined": {
+        "ball_frames": 7025,
+        "ball_recall": 1.0,
+        "longest_consecutive_misses_per_video": 0,
+        "empty_frames": 2100,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0,
+        "ignored_frames": 0
+      },
+      "passes": true
+    },
+    "0.03": {
+      "empty": {
+        "expected": "empty",
+        "total_video_frames": 2100,
+        "frames": 2100,
+        "ignored_frames": 0,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "total_video_frames": 2628,
+        "frames": 2628,
+        "ignored_frames": 0,
+        "detected": 2628,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "normal": {
+        "expected": "ball",
+        "total_video_frames": 4397,
+        "frames": 4397,
+        "ignored_frames": 0,
+        "detected": 4397,
+        "recall": 1.0,
+        "longest_consecutive_misses": 0
+      },
+      "combined": {
+        "ball_frames": 7025,
+        "ball_recall": 1.0,
+        "longest_consecutive_misses_per_video": 0,
+        "empty_frames": 2100,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0,
+        "ignored_frames": 0
+      },
+      "passes": true
+    }
+  },
+  "selected_threshold": 0.25,
+  "independent_acceptance_passed": false
+}

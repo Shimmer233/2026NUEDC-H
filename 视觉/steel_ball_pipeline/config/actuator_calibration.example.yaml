@@ -1,0 +1,16 @@
+version: 1
+address: 1
+zero_count: 0
+counts_per_degree: 1000.0
+min_count: -500
+max_count: 500
+zero_tolerance_counts: 20
+persistence_verified: false
+calibrated_at: replace-with-calibrate-actuator-script
+points:
+- angle_deg: -0.5
+  count: -500
+- angle_deg: 0.0
+  count: 0
+- angle_deg: 0.5
+  count: 500

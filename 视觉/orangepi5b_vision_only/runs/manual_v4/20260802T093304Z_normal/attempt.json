@@ -1,0 +1,6 @@
+{
+  "created_at": "2026-08-02T09:33:04.354527+00:00",
+  "scenario": "normal",
+  "camera": "/dev/video0",
+  "stage_manifest_sha256": "f0588b631375bbc72853b5638066778da6e801f88576b0430c7f558824f5ee9f"
+}

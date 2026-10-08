@@ -1,0 +1,7 @@
+{
+  "point_count": 26,
+  "rmse_mm": 0.5858577972955186,
+  "p95_error_mm": 0.9609599304505068,
+  "max_error_mm": 1.7065585585945264,
+  "passes_p95_2mm_on_fit_points": true
+}

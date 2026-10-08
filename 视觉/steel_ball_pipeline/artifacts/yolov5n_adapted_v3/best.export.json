@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-07-30T19:10:33.333016+00:00",
+  "weights": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_adapted_v3\\best.pt",
+  "onnx": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_adapted_v3\\best.onnx",
+  "anchors": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_adapted_v3\\RK_anchors.txt",
+  "command": [
+    "C:\\Program Files\\Python\\Python312\\python.exe",
+    "D:\\University\\NUEDC\\steel_ball_pipeline\\vendor\\yolov5-rkopt\\export.py",
+    "--rknpu",
+    "--weights",
+    "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_adapted_v3\\best.pt",
+    "--imgsz",
+    "640",
+    "--include",
+    "onnx",
+    "--opset",
+    "12"
+  ],
+  "input_size": 640,
+  "postprocess_in_model": false
+}

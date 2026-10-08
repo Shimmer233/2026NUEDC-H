@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "frozen_after_confidence_calibration",
+  "model": {
+    "onnx": "artifacts/yolov5n_adapted_v3/best.onnx",
+    "onnx_sha256": "A92B86A9E7B89D5AEE5524125D238AD6D913B66465B7955EEFB1C53A23477554",
+    "pt": "artifacts/yolov5n_adapted_v3/best.pt",
+    "pt_sha256": "87504A33F7AA17C835FCE3E2CC355E74194606CB99D06D313409FF2CD16FAFE7"
+  },
+  "postprocess": {
+    "confidence_threshold": 0.03,
+    "iou_threshold": 0.45,
+    "track_y_min": 25,
+    "track_y_max": 85,
+    "maximum_prediction_frames": 3
+  },
+  "model_input": {
+    "width": 640,
+    "height": 640
+  },
+  "calibration_video_geometry": {
+    "source_width": 480,
+    "source_height": 320,
+    "roi": [10, 70, 450, 100],
+    "roi_output_size": [470, 110]
+  },
+  "next_windows_capture": {
+    "camera_menu_mode": "720p 16:9 60fps",
+    "expected_source_width": 1280,
+    "expected_source_height": 720,
+    "expected_fps": 60,
+    "rejected_mode": "600p 4:3 60fps uses a center-cropped field of view and cuts off the left end of the track.",
+    "verified_roi": [10, 140, 1110, 260],
+    "roi_output_size": [470, 110],
+    "sample_result": "1280x720 H.264 with complete track view, but Windows Camera encoded only 29.9678 FPS.",
+    "status": "Geometry passed. Capture FPS must be re-tested with DirectShow MJPEG and must measure at least 58 FPS before acceptance recording."
+  },
+  "orange_pi_camera_geometry": {
+    "source_width": 640,
+    "source_height": 480,
+    "roi": [145, 190, 470, 110],
+    "status": "Provisional legacy profile; replace after checking the camera modes with v4l2-ctl on Orange Pi."
+  },
+  "calibration_report": "runs/final_calibration_yolov5n_adapted_v3_480x320/report.json",
+  "independent_acceptance_required": true,
+  "next_acceptance_rule": "Do not alter weights, ROI logic, confidence threshold, or postprocess settings before evaluating a newly recorded untouched normal/fast/empty set."
+}

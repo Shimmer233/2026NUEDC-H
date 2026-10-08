@@ -1,0 +1,10 @@
+{
+  "processed_frames": 2914,
+  "last_camera_frame_id": 2913,
+  "last_processed_frame_id": 2913,
+  "duration_seconds": 60.206344348999664,
+  "fusion_fps_median": 49.83221741562415,
+  "latency_ms_p95": 2.548645049910191,
+  "rss_max_mb": 143.52734375,
+  "rss_growth_mb": 59.05859375
+}

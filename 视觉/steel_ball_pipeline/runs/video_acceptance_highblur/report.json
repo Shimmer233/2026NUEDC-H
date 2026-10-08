@@ -1,0 +1,179 @@
+{
+  "created_at": "2026-07-30T17:33:37.901756+00:00",
+  "model": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_highblur\\best.onnx",
+  "roi": [
+    170,
+    190,
+    1240,
+    290
+  ],
+  "output_size": [
+    470,
+    110
+  ],
+  "track_y_band": [
+    25.0,
+    85.0
+  ],
+  "total_frames": 5077,
+  "latency_ms_median_onnx_host": 8.537800000340212,
+  "latency_ms_p95_onnx_host": 10.06070000003092,
+  "thresholds": {
+    "0.25": {
+      "empty": {
+        "expected": "empty",
+        "frames": 1263,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "frames": 1323,
+        "detected": 920,
+        "recall": 0.6953892668178382,
+        "longest_consecutive_misses": 90
+      },
+      "normal": {
+        "expected": "ball",
+        "frames": 2491,
+        "detected": 2108,
+        "recall": 0.8462464873544762,
+        "longest_consecutive_misses": 201
+      },
+      "combined": {
+        "ball_frames": 3814,
+        "ball_recall": 0.7939171473518616,
+        "longest_consecutive_misses_per_video": 201,
+        "empty_frames": 1263,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0
+      },
+      "passes": false
+    },
+    "0.20": {
+      "empty": {
+        "expected": "empty",
+        "frames": 1263,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "frames": 1323,
+        "detected": 946,
+        "recall": 0.7150415721844293,
+        "longest_consecutive_misses": 77
+      },
+      "normal": {
+        "expected": "ball",
+        "frames": 2491,
+        "detected": 2169,
+        "recall": 0.8707346447209956,
+        "longest_consecutive_misses": 118
+      },
+      "combined": {
+        "ball_frames": 3814,
+        "ball_recall": 0.8167278447823807,
+        "longest_consecutive_misses_per_video": 118,
+        "empty_frames": 1263,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0
+      },
+      "passes": false
+    },
+    "0.15": {
+      "empty": {
+        "expected": "empty",
+        "frames": 1263,
+        "false_positive_frames": 0,
+        "false_positives_per_1000_frames": 0.0
+      },
+      "fast": {
+        "expected": "ball",
+        "frames": 1323,
+        "detected": 981,
+        "recall": 0.7414965986394558,
+        "longest_consecutive_misses": 75
+      },
+      "normal": {
+        "expected": "ball",
+        "frames": 2491,
+        "detected": 2233,
+        "recall": 0.8964271376957046,
+        "longest_consecutive_misses": 53
+      },
+      "combined": {
+        "ball_frames": 3814,
+        "ball_recall": 0.8426848453067646,
+        "longest_consecutive_misses_per_video": 75,
+        "empty_frames": 1263,
+        "empty_false_positive_frames": 0,
+        "empty_false_positives_per_1000_frames": 0.0
+      },
+      "passes": false
+    },
+    "0.10": {
+      "empty": {
+        "expected": "empty",
+        "frames": 1263,
+        "false_positive_frames": 1,
+        "false_positives_per_1000_frames": 0.7917656373713381
+      },
+      "fast": {
+        "expected": "ball",
+        "frames": 1323,
+        "detected": 1030,
+        "recall": 0.7785336356764928,
+        "longest_consecutive_misses": 60
+      },
+      "normal": {
+        "expected": "ball",
+        "frames": 2491,
+        "detected": 2312,
+        "recall": 0.9281413087113609,
+        "longest_consecutive_misses": 24
+      },
+      "combined": {
+        "ball_frames": 3814,
+        "ball_recall": 0.8762454116413214,
+        "longest_consecutive_misses_per_video": 60,
+        "empty_frames": 1263,
+        "empty_false_positive_frames": 1,
+        "empty_false_positives_per_1000_frames": 0.7917656373713381
+      },
+      "passes": false
+    },
+    "0.05": {
+      "empty": {
+        "expected": "empty",
+        "frames": 1263,
+        "false_positive_frames": 56,
+        "false_positives_per_1000_frames": 44.338875692794936
+      },
+      "fast": {
+        "expected": "ball",
+        "frames": 1323,
+        "detected": 1166,
+        "recall": 0.8813303099017384,
+        "longest_consecutive_misses": 28
+      },
+      "normal": {
+        "expected": "ball",
+        "frames": 2491,
+        "detected": 2438,
+        "recall": 0.9787234042553191,
+        "longest_consecutive_misses": 15
+      },
+      "combined": {
+        "ball_frames": 3814,
+        "ball_recall": 0.9449396958573676,
+        "longest_consecutive_misses_per_video": 28,
+        "empty_frames": 1263,
+        "empty_false_positive_frames": 56,
+        "empty_false_positives_per_1000_frames": 44.338875692794936
+      },
+      "passes": false
+    }
+  },
+  "selected_threshold": null
+}

@@ -1,0 +1,10 @@
+Host-side verification completed on 2026-08-02:
+
+- 14 manual deployment Python tests passed.
+- common.sh, stage_model.sh, run_staged_test.sh, activate_model.sh,
+  and rollback_model.sh passed bash -n.
+- RELEASE_STATUS.json parsed successfully.
+- RKNN conversion bundle verified 300 calibration images.
+- RKNN output is intentionally absent until conversion runs on Linux with
+  rknn-toolkit2 2.3.2.
+- Independent Orange Pi tests are still required before activation.

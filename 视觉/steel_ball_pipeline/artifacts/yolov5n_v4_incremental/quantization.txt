@@ -1,0 +1,300 @@
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_30_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000995.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000325.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_001200.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000555.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_001380.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_000090.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_45_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_39_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_57_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000618.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000375.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001590.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001152.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_35_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000300.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_33_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_23_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002192.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002208.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_00_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_000852.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000354.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_21_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001416.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000632.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_35_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001224.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_31_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_34_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002040.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_27_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_46_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001944.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001864.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_46_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001680.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000848.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_56_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_002016.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_39_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_43_13_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_48_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_44_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_56_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001908.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000564.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_26_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000894.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000723.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_52_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001092.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_11_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_39_59_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_17_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_17_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_46_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000813.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000333.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_40_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_002916.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000726.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_06_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001548.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_24_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_44_44_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002480.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_15_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_04_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001960.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001200.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000153.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000248.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_49_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001524.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000033.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_11_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_22_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_001165.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000035.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000775.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000725.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_000360.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_001210.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_45_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_09_23_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_09_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000456.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001240.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_000036.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001560.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_38_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001674.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_39_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_20_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_19_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_42_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_05_Pro (6).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001146.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000752.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_22_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001092.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001448.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_36_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000414.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_59_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_43_11_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002032.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_38_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_31_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001848.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000728.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_14_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001560.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000189.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_36_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001560.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_42_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_24_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002288.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_44_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_07_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000780.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000831.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_26_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001824.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001170.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_45_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000402.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_14_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_04_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_44_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_09_27_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_09_10_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_000240.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000339.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_40_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_003024.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000483.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_57_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001752.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_48_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_21_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002456.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_55_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_54_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000660.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001242.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001968.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000165.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_51_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001884.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001290.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_52_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000720.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000040.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000500.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000645.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_001590.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_001250.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_45_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_20_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_28_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001812.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001464.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000198.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001272.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_48_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000426.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_53_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_23_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_43_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_43_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_02_Pro (6).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_000984.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000776.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_22_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_000912.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000784.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_36_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001128.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_39_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_43_12_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002072.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_42_Pro (6).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_33_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_000456.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000312.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_52_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001644.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_28_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_53_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000408.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_42_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_43_10_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002280.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_14_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_08_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000120.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000400.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_18_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_002316.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_31_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_48_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000510.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_53_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_17_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_18_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_09_18_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_09_01_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001962.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000567.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_40_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001143.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000510.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_50_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001440.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_58_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_17_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002488.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_41_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_13_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000408.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000144.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000296.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001239.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_43_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001518.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001272.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_44_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_001145.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000930.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_000060.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_000280.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__empty_001650.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__empty_001235.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_19_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_09_23_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_57_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001806.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_001104.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000219.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000531.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_30_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000186.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_54_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_02_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_43_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_48_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_00_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000336.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000648.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_15_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_001608.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000882.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_33_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000066.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_33_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_35_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002064.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_31_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_32_Pro (5).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001272.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000975.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_59_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000231.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000688.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_10_51_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001662.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_31_Pro (4).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_43_45_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_47_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_26_Pro (6).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_06_58_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001956.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000645.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_17_Pro (6).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000234.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001149.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_42_29_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_001446.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_40_59_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_44_46_Pro (3).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_05_44_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002000.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_07_06_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000321.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000258.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_14_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__normal_002760.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_001182.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_07_Pro.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newvideo__fast_000036.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_41_11_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/newphoto__WIN_20260802_12_44_17_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_002472.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_11_55_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/base__WIN_20260730_21_08_54_Pro (2).jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__fast_000114.jpg
+D:/University/NUEDC/datasets/steel_ball_v4_incremental/images/train/adapt__normal_000088.jpg

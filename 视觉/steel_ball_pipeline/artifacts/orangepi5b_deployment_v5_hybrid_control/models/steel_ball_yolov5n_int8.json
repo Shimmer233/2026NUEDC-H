@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-07-31T02:39:26.351858+00:00",
+  "toolkit_version": "2.3.2",
+  "target_platform": "rk3588",
+  "mode": "int8",
+  "onnx": "/home/orangepi/rknn_conversion_bundle_v3_release/model/best.onnx",
+  "onnx_sha256": "a92b86a9e7b89d5aee5524125d238ad6d913b66465b7955eefb1c53a23477554",
+  "dataset_list": "/home/orangepi/rknn_conversion_bundle_v3_release/dataset.txt",
+  "dataset_list_sha256": "b27cf2b00473639f698004a06888993d2a69c9017988401a281186be5bf0c82c",
+  "output": "/home/orangepi/rknn_conversion_bundle_v3_release/output/steel_ball_yolov5n_int8.rknn",
+  "output_sha256": "bfc19deea6e480bd3589e67bd3be155dd3b5bb35a23e8a2d329a1533cbb6f153",
+  "mean_values": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "std_values": [
+    [
+      255,
+      255,
+      255
+    ]
+  ]
+}

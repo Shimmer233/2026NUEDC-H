@@ -1,0 +1,27 @@
+photo_roi: 10,150,600,105
+video_roi: 5,182,1200,210
+output_size: 470,110
+train_fraction: 0.8
+videos:
+  normal: "正常.mp4"
+  fast: "快速.mp4"
+  empty: "空轨道.mp4"
+video_strides:
+  normal: 12
+  fast: 6
+  empty: 30
+photo_selection:
+  background_samples: 300
+  minimum_motion_px: 10
+  maximum_interval_seconds: 1.0
+  endpoint_margin_px: 30
+  blur_quantile: 0.10
+prelabel:
+  search_y_min: 25
+  search_y_max: 85
+  expected_radius: 10
+  min_radius: 6
+  max_radius: 15
+  box_padding: 2.5
+  uncertain_score: 2.5
+  uncertain_peak_gap: 0.5

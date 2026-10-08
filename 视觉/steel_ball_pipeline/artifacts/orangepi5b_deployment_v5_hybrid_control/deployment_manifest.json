@@ -1,0 +1,102 @@
+{
+  "created_at": "2026-07-31T13:26:16.626378+00:00",
+  "bundle_version": "5.0.0",
+  "target": "Orange Pi 5B / RK3588 / Ubuntu 22.04 / Python 3.10",
+  "acceptance_status": "software_verified_hardware_gated",
+  "default_mode": "observe",
+  "motor_uart": "/dev/ttyS0 115200 8N1 custom protocol address 1",
+  "imu_uart": "/dev/ttyS1 reserved and disabled",
+  "rknn_models_included": [
+    "steel_ball_yolov5n_fp16.rknn",
+    "steel_ball_yolov5n_int8.rknn"
+  ],
+  "default_model": "models/steel_ball_yolov5n_int8.rknn",
+  "vision_mode": {
+    "detector": "yolo_only",
+    "cv_role": "track_geometry_and_box_center_refinement"
+  },
+  "display_coordinate": {
+    "track_length_cm": 25.0,
+    "center_cm": 12.5,
+    "minor_tick_cm": 0.5,
+    "label_interval_cm": 2,
+    "axis_offset_px": 18
+  },
+  "ready_for_board_software_tests": true,
+  "balance_requires": [
+    "track calibration",
+    "actuator angle mapping",
+    "power-cycle zero persistence or current-boot session zero",
+    "identified gains",
+    "explicit --arm"
+  ],
+  "camera_default": {
+    "device": "/dev/video0",
+    "width": 640,
+    "height": 480,
+    "fps": 120,
+    "fourcc": "MJPG",
+    "controls": {
+      "power_line_frequency": 1,
+      "exposure_auto": 1,
+      "exposure_absolute": 75,
+      "gain": 64
+    }
+  },
+  "roi": {
+    "x": 10,
+    "y": 150,
+    "width": 555,
+    "height": 105,
+    "output_width": 470,
+    "output_height": 110
+  },
+  "files": {
+    "board/requirements-board.txt": "a539e274d87ce00dccdfd3946c8a20bfb0a9b3f5312d0e4cc592ff4c3a9622d1",
+    "board/steel_ball_tracker.py": "73ed91f92a070f5329130142d0c462bc33025a46be725c6865141dfbcb8b0f1f",
+    "board_wheel/rknn_toolkit_lite2-2.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": "821e80c95e6838308c133915660b1a6ae78bb8d079b2cbbd46a02dae61192d33",
+    "config/actuator_calibration.example.yaml": "ae250a2a84077cb8a2c4e01dddfdf78a53ab802465e06120ae6f3746ccc0d58f",
+    "config/board.yaml": "2b820b89cc213abf1bc61b25473f51cf15fbcc54dbe82ba7112ff8c20d9ee841",
+    "install.sh": "f87b1bfb05bf69f349facc0b164a8d7f7339b9f2ad455ef276a017d81f0ea76e",
+    "list_devices.sh": "48a0f7c4de35032e6f91df95bf37a3edc4b126fcfcba09e85b18bb4b74e7a6f1",
+    "models/SHA256SUMS.txt": "3e32201b1efcd50d6fbf0db712458b4616bcecfc77cb23b71e077022e30adc1c",
+    "models/steel_ball_yolov5n_fp16.json": "c65932704c0f7a062935e71e306010c6159c79b3ce686d2dd6b2733d9fe9ae46",
+    "models/steel_ball_yolov5n_fp16.rknn": "acd617243c10e2fdb62ccf9d92b1fc0c31dc260fec8325033c74dd60fc2b3198",
+    "models/steel_ball_yolov5n_int8.json": "47e364060af839ed548cedbea2511a4336212a807fb38ae125fc02034c360156",
+    "models/steel_ball_yolov5n_int8.rknn": "bfc19deea6e480bd3589e67bd3be155dd3b5bb35a23e8a2d329a1533cbb6f153",
+    "README_CN.md": "d623d682c7031ee39169842ccd6124d914d9f96e2e9893baefcb90c412b508bd",
+    "run_balance.sh": "da1ed251dafa626932fded29e2dde60beb21ed57efc32fd3cdd7eb1c0fee1a28",
+    "run_detection_only.sh": "7c246ccbf1a9837e07296d7e99d246239024cbc3e9198f3b7ca66ca195974a4d",
+    "run_dry_run.sh": "327e82012bf617fae0368573e1c9cdc17eb651cad924324ad8ab20108227bd0f",
+    "run_identification.sh": "b92cdad2583b63c35592aa8e63d7d7df1f384fd15b217801d42176ddfb1bf469",
+    "run_observe.sh": "eeb8cfb20318e352e39ae971bd67d1714dba5b8cf54a4f8b0a6e1a983801a537",
+    "scripts/__pycache__/apply_motor_safety_update.cpython-312.pyc": "e158cce1b57bcfe19daebb1fd623bee2bf8e1dda3a0f25e49d2a6136aab30f01",
+    "scripts/__pycache__/calibrate_actuator.cpython-312.pyc": "b4d6ec3dbcaf1efdbaa1cbb6a0f448b9eaefb8abe723fc086a46f56f4869bb3f",
+    "scripts/apply_motor_safety_update.py": "de75d32b6b3519881ea9ac5e8987f65b34d4d9dd88dc9e566d214243d4d66d3a",
+    "scripts/calibrate_actuator.py": "b25cb55e2394093d99c8df643fecd204aad6a1880d891b09722ac7ba03e309e9",
+    "scripts/calibrate_track.py": "2652382d8b7eb8bf317c2983ea4deae022429542b9231da035cf559c8f4e49cd",
+    "scripts/calibrate_track_geometry.py": "d335b2a5612a8353596617d43d98321da8973464d2b7dda93e8d474ecc3d06d5",
+    "scripts/fit_control_gains.py": "b8ad4aeffb72c59d2daab03323978d9915b78d3f07f637a5cc1d4da4f1d81864",
+    "scripts/manual_motor_limits.py": "bbb3ce9fd06c6a8bae7d9a05760020c55b4eec04536ff8057dfec5b4c73e86f3",
+    "scripts/setup_camera.py": "2ad678e5ffd17ce45309b88d6ffe716f62c40ec641c1b4c71084245503ec18a0",
+    "steel_ball/__init__.py": "5a6c9d07037d0eb1f742b96568de6b51e334e22b15823e42aec0e8e72eb4b7dc",
+    "steel_ball/__pycache__/pd42s1.cpython-312.pyc": "2bd107e5045c51d07615264085bb25def4a6c7a740b02ec5281b5a17170ba04e",
+    "steel_ball/calibration.py": "b7fd1f555636c00c2297602dbee30da10285bf6663d1b23ef34a62a90cf67992",
+    "steel_ball/camera_controls.py": "5cebd053e5a8be87eebc26763f3921e606899c4840e940d40afd66a725e429fb",
+    "steel_ball/control.py": "e6e6c705ed26166bd9d840e20b8dba70f8ec1774c495abe8e366c9acd3017c0b",
+    "steel_ball/dataset.py": "f593d63bc650cf5778bb2fd16858f6bbd7b7daded84453075be29a5622337701",
+    "steel_ball/hybrid_vision.py": "4774f81264e5d0ce4a55cbaff7f68fa18ea15a666113fa608cdbca97bd6b9ab4",
+    "steel_ball/imu.py": "1d2adb77d4f3f0f0d9d1f79e7182840c452cdff4217da3df74be00468311d6f9",
+    "steel_ball/pd42s1.py": "224cd306cea52a5370d07f233bafe629590370069d03f7054b63ffae90136a24",
+    "steel_ball/prelabel.py": "eb4b2aca0ef23603d3f6a10d41ccfc15e7efe0abc87e6485f09e40cd1c04df18",
+    "steel_ball/rknn_postprocess.py": "563fdac39ff9d7b9b9e5351cbce9279c70e89a59088dc4ce7fc29d1344dc3d24",
+    "steel_ball/session_zero.py": "3ddb8e4b588b053166a1ee9b7f4f825bf2fa5fe1a62f031940cd314b56ef7daa",
+    "steel_ball/tracking.py": "737291a0902af1c1118a31d1ecdeb64e6a7b89180de0191efefa96a695038bca",
+    "steel_ball/training_view.py": "ae99359e049ac778617ec4e9fbc55ee0a2fef4b27acba0c8ae9c984c2eb92b0c",
+    "steel_ball/vision.py": "63cd5dc8e6060a64bd5ee88f5650d8ef8ca10da9fb18b00c2ac9bff2965db3c3",
+    "UPDATE_MOTOR_ENABLE_CN.md": "6bdf9e046073bc5deecf166bea395ebdcb58564acd3edfc52eefc6d8e54689bd",
+    "UPDATE_SESSION_ZERO_CN.md": "8963f507ef3f6a2b47d2a2a15bc9a0c271da10868a0efd89a5d15b9ea43f1316",
+    "UPDATE_STALE_STATUS_COMPAT_CN.md": "7186cad16ba3ad7cac3d14aa2dcf30ebf6b0f51a6a04eefc70d4f9dca12a3ccb",
+    "UPDATE_YOLO_ONLY_CN.md": "93681c1d276a6f1bf248eab1f99a4dec76db49a594c69971508c29740ea7028b"
+  }
+}

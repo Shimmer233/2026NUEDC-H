@@ -1,0 +1,71 @@
+{
+  "created_at": "2026-07-30T21:07:42.692374+00:00",
+  "purpose": "RK3588 FP16 and INT8 conversion after user-waived independent acceptance",
+  "acceptance_status": "waived_unverified",
+  "target_platform": "rk3588",
+  "toolkit": {
+    "version": "2.3.2",
+    "official_repository": "https://github.com/airockchip/rknn-toolkit2",
+    "commit": "42aa1d426c0a9e0869b6374edba009f7208a1926",
+    "conversion_python": "3.10 on x86_64 Linux or aarch64 Linux",
+    "runtime_python": "3.10 aarch64 Linux"
+  },
+  "model": {
+    "source": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n_adapted_v3\\best.onnx",
+    "sha256": "a92b86a9e7b89d5aee5524125d238ad6d913b66465b7955eefb1c53a23477554",
+    "input": [
+      1,
+      3,
+      640,
+      640
+    ],
+    "outputs": [
+      [
+        1,
+        18,
+        80,
+        80
+      ],
+      [
+        1,
+        18,
+        40,
+        40
+      ],
+      [
+        1,
+        18,
+        20,
+        20
+      ]
+    ],
+    "postprocess_in_model": false
+  },
+  "calibration": {
+    "images": 300,
+    "source_split": "train",
+    "uses_validation_or_test": false,
+    "portable_image_hash_aggregate": "bb192d3e1c75d674e6751e6efef43d8fffc630f02798ae71894fca37e41f4427",
+    "dataset_txt_sha256": "5bebbc8a21ba2f22f972d611b5a612516eec798f77a8ca30879c4bf29479a265"
+  },
+  "portable_file_sha256": {
+    "model/best.onnx": "a92b86a9e7b89d5aee5524125d238ad6d913b66465b7955eefb1c53a23477554",
+    "model/RK_anchors.txt": "5948574ca9ae9fedad3cf9c9ac4fda7f52f6c94238b3f15af380ada39c58cfc5",
+    "convert_rknn.py": "1aeb7b049ec2237ae21d0757d150f203cb93fc47cd216e025981d92f28139671",
+    "toolkit/rknn_toolkit2-2.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": "6cb783ddf293ac509f39bf9127acf6a5492bbb67e4b4b4ac33a7c6d2cefb4f3c",
+    "toolkit/requirements_cp310-2.3.2.txt": "1e7a6995017b091f6fcec4c67aa92c42aed4465634125a5f43a117eb59f415f6",
+    "toolkit_arm64/rknn_toolkit2-2.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": "73d0bb55d30ee00bbd9603331a4118da73a4e12fa9d9196200460d07d67c6a12",
+    "toolkit_arm64/arm64_requirements_cp310.txt": "d78f0b0d4c5a0760d01c7d359448f5fff5029c6b9bd31f66d4f6ca997796f1a2",
+    "toolkit/LICENSE": "64694a0440ac142470b75005c730c46d3614527a6e2a54bf61e507a0cf38827e",
+    "board_wheel/rknn_toolkit_lite2-2.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": "821e80c95e6838308c133915660b1a6ae78bb8d079b2cbbd46a02dae61192d33",
+    "dataset.txt": "5bebbc8a21ba2f22f972d611b5a612516eec798f77a8ca30879c4bf29479a265",
+    "run_conversion.sh": "261d26fe10e733e83eca11c9bc10ebbf99545459a6c3c6efe8d39dcb58ca41f2",
+    "run_conversion_arm64.sh": "8517890a139b1b615777fca95efc191b030c5894ee42dc8bc5581aa0ee1fdbe3",
+    "install_board_lite.sh": "8de67b5a0df8d1c42e196e4dac385ef3ea7b7852cf78d30900d0c7e1a29f6b6d",
+    "verify_bundle.py": "08d72535d81c88effff15d894cf498664c8eb3ec8abbdc88135bff8dd5107b99"
+  },
+  "expected_outputs": [
+    "output/steel_ball_yolov5n_fp16.rknn",
+    "output/steel_ball_yolov5n_int8.rknn"
+  ]
+}

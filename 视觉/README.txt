@@ -1,0 +1,6 @@
+steel_ball_pipeline是用来训练yolo模型的
+best.onnx是训练好的模型
+steel_ball_v4_manual_deployment.zip是部署在香橙派上的文件，可以将onnx转换为rknn
+orangepi5b_vision_only是最终的视觉程序，里面有.sh文件，在部署好虚拟环境的开发板上运行即可
+本视觉程序采用yolo+opencv的形式，yolo用于追踪小球，opencv负责确定小球中心、标定水管刻度、确定小球位置。
+yolo的训练以及yolo与opencv的结合使用codex辅助进行

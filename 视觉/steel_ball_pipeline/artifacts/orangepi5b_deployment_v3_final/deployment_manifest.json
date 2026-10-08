@@ -1,0 +1,41 @@
+{
+  "created_at": "2026-07-30T21:10:39.970089+00:00",
+  "target": "Orange Pi 5B / RK3588 / Ubuntu 22.04 / Python 3.10",
+  "acceptance_status": "waived_unverified",
+  "rknn_models_included": [],
+  "ready_for_board": false,
+  "camera_default": {
+    "device": "/dev/video0",
+    "width": 1280,
+    "height": 720,
+    "fps": 60,
+    "fourcc": "MJPG"
+  },
+  "roi": {
+    "x": 10,
+    "y": 140,
+    "width": 1110,
+    "height": 260,
+    "output_width": 470,
+    "output_height": 110
+  },
+  "files": {
+    "board/requirements-board.txt": "bf6d07ebbba584f1481b35e1e539d1fb5fbf2676ecc8d578f259aeec6a32588f",
+    "board/steel_ball_tracker.py": "707d431bf3569393759a61f9b08994564f3304337032a75d854104867a62f3fb",
+    "board_wheel/rknn_toolkit_lite2-2.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": "821e80c95e6838308c133915660b1a6ae78bb8d079b2cbbd46a02dae61192d33",
+    "config/board.yaml": "dd1e56c8034467d09c98bf461c6cfe41aaad902b8851aa49f303415c171e8d4f",
+    "install.sh": "6da93d8f4dda18d806cf8d0bc142a5e21963f98fa62e688874402713f78ba6f8",
+    "list_cameras.sh": "772c706321c95384d446879114854f015425e231beecf115f4be06fbb1491881",
+    "README_CN.md": "71b533713307b82eb0d163e65130050402e3db8d87b3f6bb49513e6e80eda98b",
+    "run_detection_only.sh": "8fa2570ea3702c2149676727f05cee47e954fcf109700b4eb98a9aceaf1262ed",
+    "scripts/calibrate_track.py": "7e60e182e3aa0553ff6b170133dd612197c0543d74bd38a6e59ea6a474bf61f5",
+    "steel_ball/__init__.py": "0d2f9176aa2fe87d1b39f6435ae305ee4de3a321b583f32c1c40b5e5df0e7676",
+    "steel_ball/calibration.py": "b7fd1f555636c00c2297602dbee30da10285bf6663d1b23ef34a62a90cf67992",
+    "steel_ball/dataset.py": "f593d63bc650cf5778bb2fd16858f6bbd7b7daded84453075be29a5622337701",
+    "steel_ball/prelabel.py": "eb4b2aca0ef23603d3f6a10d41ccfc15e7efe0abc87e6485f09e40cd1c04df18",
+    "steel_ball/rknn_postprocess.py": "563fdac39ff9d7b9b9e5351cbce9279c70e89a59088dc4ce7fc29d1344dc3d24",
+    "steel_ball/tracking.py": "f422b12d519992ba0579de983de3361a7be7579d92be4716875cc9ac2d16972c",
+    "steel_ball/training_view.py": "ae99359e049ac778617ec4e9fbc55ee0a2fef4b27acba0c8ae9c984c2eb92b0c",
+    "steel_ball/vision.py": "5992ccf1e4e21270eeaf002676f328ad0eb3dff32c59da1689c9d3efc6ab906c"
+  }
+}

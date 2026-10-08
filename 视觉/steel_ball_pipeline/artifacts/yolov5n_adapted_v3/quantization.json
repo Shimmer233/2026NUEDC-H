@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-07-30T20:46:38.608524+00:00",
+  "seed": 42,
+  "requested": 300,
+  "selected": 300,
+  "source_split": "train",
+  "uses_validation_or_test": false,
+  "negative_images_available": 255,
+  "negative_images_selected": 30,
+  "selection": "round-robin across 6 position x 4 brightness x 3 sharpness quantile bins",
+  "list_sha256": "bcc1b253320db1705635438cd2a050f8ba4ed52f25829527c5cfb7ff9d487023"
+}

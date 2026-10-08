@@ -1,0 +1,86 @@
+model: artifacts/steel_ball_yolov5n_int8.rknn
+calibration: config/track_calibration.yaml
+geometry: config/track_geometry.yaml
+vision:
+  detector: yolo_only
+  cv_role: track_geometry_and_box_center_refinement
+camera:
+  device: /dev/video0
+  width: 640
+  height: 480
+  fps: 120
+  fourcc: MJPG
+  controls:
+    power_line_frequency: 1
+    exposure_auto: 1
+    exposure_absolute: 75
+    gain: 64
+roi:
+  x: 10
+  y: 150
+  width: 600
+  height: 105
+  output_width: 470
+  output_height: 110
+stabilization:
+  enabled: false
+  max_shift_px: 8
+  min_response: 0.08
+coordinate:
+  track_length_cm: 25.0
+  center_cm: 12.5
+  minor_tick_cm: 0.5
+  label_interval_cm: 2
+  axis_offset_px: 18
+detection:
+  input_size: 640
+  confidence_threshold: 0.03
+  iou_threshold: 0.45
+  track_y_min: 25
+  track_y_max: 85
+yolo:
+  normal_hz: 50
+  reacquire_hz: 50
+fusion:
+  yolo_max_age_ms: 80
+  yolo_measurement_std_cm: 0.12
+  innovation_gate_sigma: 5
+tracking:
+  process_acceleration_std: 40.0
+  measurement_std_cm: 0.12
+  max_prediction_frames: 3
+runtime:
+  fusion_hz: 80
+  display_hz: 30
+motor:
+  device: /dev/ttyS0
+  baudrate: 115200
+  address: 1
+  timeout_seconds: 0.2
+  stale_disabled_status_physically_verified: false
+  calibration: config/actuator_calibration.yaml
+  session_zero_marker: runs/board/motor_session_zero.json
+  speed_rpm: 10
+  acceleration: 10
+  command_hz: 40
+  status_hz: 2
+  shutdown_timeout_seconds: 3
+imu:
+  enabled: false
+  device: /dev/ttyS1
+control:
+  target_min_cm: 1.0
+  target_max_cm: 24.0
+  target_slew_cm_s: 5.0
+  max_angle_deg: 0.8
+  integral_band_cm: 2.0
+  integral_angle_limit_deg: 0.2
+  gains:
+    kp_deg_per_cm: 0.04
+    kv_deg_per_cm_s: 0.02
+    ki_deg_per_cm_s: 0.0032
+    identified: false
+output:
+  csv: runs/board/trajectory.csv
+  control_csv: runs/board/control_telemetry.csv
+  display: true

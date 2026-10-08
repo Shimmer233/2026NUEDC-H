@@ -1,0 +1,28 @@
+%YAML 1.2
+---
+# !!!Do not modify it!!!
+SoCs:
+  RK3562:
+    npu_model: RKNPU2-T4
+    npu_inside: True
+    npu_assemble: False
+  RK3566:
+    npu_model: RKNPU2-LITE
+    npu_inside: True
+    npu_assemble: False
+  RK3568:
+    npu_model: RKNPU2-LITE
+    npu_inside: True
+    npu_assemble: False
+  RK3588:
+    npu_model: RKNPU2-V2
+    npu_inside: True
+    npu_assemble: False
+  RK3576:
+    npu_model: RKNPU2-F2
+    npu_inside: True
+    npu_assemble: False
+  RV1126B:
+    npu_model: RKNPU2-F3
+    npu_inside: True
+    npu_assemble: False

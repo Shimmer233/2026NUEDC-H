@@ -1,0 +1,21 @@
+source_images: D:/University/NUEDC/yolov5-master/yolov5-master/VOCData/images
+dataset_root: D:/University/NUEDC/datasets/steel_ball_v2
+roi:
+  x: 145
+  y: 190
+  width: 470
+  height: 110
+split:
+  train_end: "2026-07-30 21:11:59"
+  val_end: "2026-07-30 21:13:59"
+prelabel:
+  background_samples: 300
+  search_y_min: 25
+  search_y_max: 85
+  expected_radius: 10
+  min_radius: 6
+  max_radius: 15
+  box_padding: 2.5
+  uncertain_score: 2.5
+  uncertain_peak_gap: 0.5
+

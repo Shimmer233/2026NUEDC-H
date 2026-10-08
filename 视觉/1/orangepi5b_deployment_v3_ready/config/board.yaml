@@ -1,0 +1,31 @@
+model: models/steel_ball_yolov5n_int8.rknn
+calibration: config/track_calibration.yaml
+camera:
+  device: /dev/video0
+  width: 640
+  height: 480
+  fps: 120
+  fourcc: MJPG
+  controls:
+    exposure_absolute: 75
+    gain: 16
+roi:
+  x: 25
+  y: 158
+  width: 546
+  height: 77
+  output_width: 470
+  output_height: 110
+detection:
+  input_size: 640
+  confidence_threshold: 0.03
+  iou_threshold: 0.45
+  track_y_min: 25
+  track_y_max: 85
+tracking:
+  process_acceleration_std: 40.0
+  measurement_std_cm: 0.12
+  max_prediction_frames: 3
+output:
+  csv: runs/board/trajectory.csv
+  display: true

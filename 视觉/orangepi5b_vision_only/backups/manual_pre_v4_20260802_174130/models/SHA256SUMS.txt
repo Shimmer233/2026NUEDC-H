@@ -1,0 +1,2 @@
+acd617243c10e2fdb62ccf9d92b1fc0c31dc260fec8325033c74dd60fc2b3198  models/steel_ball_yolov5n_fp16.rknn
+bfc19deea6e480bd3589e67bd3be155dd3b5bb35a23e8a2d329a1533cbb6f153  models/steel_ball_yolov5n_int8.rknn

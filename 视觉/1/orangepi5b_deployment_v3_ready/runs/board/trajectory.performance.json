@@ -1,0 +1,11 @@
+{
+  "processed_frames": 1311,
+  "skipped_camera_frames": 48,
+  "duration_seconds": 27.019542299000022,
+  "processing_fps_median": 51.34055614118817,
+  "latency_ms_p95": 18.253666999953566,
+  "rss_max_mb": 158.1953125,
+  "rss_growth_mb": 67.09765625,
+  "passes_58_fps": false,
+  "passes_p95_50ms": true
+}

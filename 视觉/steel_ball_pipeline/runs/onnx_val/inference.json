@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-07-30T16:33:45.049992+00:00",
+  "backend": "onnx",
+  "model": "D:\\University\\NUEDC\\steel_ball_pipeline\\artifacts\\yolov5n\\best.onnx",
+  "dataset": "D:\\University\\NUEDC\\datasets\\steel_ball_v2",
+  "split": "val",
+  "images": 335,
+  "latency_ms_median": 8.183599999028957,
+  "latency_ms_p95": 9.41640000201005,
+  "inference_fps_from_median": 122.19561074816184
+}

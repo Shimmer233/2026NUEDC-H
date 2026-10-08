@@ -1,0 +1,37 @@
+﻿{
+    "created_at":  "2026-08-02T07:36:26.0041518Z",
+    "source":  "C:\\Users\\Light\\Desktop\\1\\orangepi5b_vision_only",
+    "purpose":  "Backup before ROI width 600 and v4 model staging",
+    "files":  [
+                  {
+                      "relative_path":  "config/vision.yaml",
+                      "size":  1073,
+                      "sha256":  "609cf2244ee36852d5926033c45af6ee47b1c240868af1d56a3264c66816a5d2"
+                  },
+                  {
+                      "relative_path":  "models/SHA256SUMS.txt",
+                      "size":  204,
+                      "sha256":  "da773e2ef6c79af57f5e533088b2b23a3717f0fcee31205b770c9fd77f8af7f6"
+                  },
+                  {
+                      "relative_path":  "models/steel_ball_yolov5n_fp16.json",
+                      "size":  667,
+                      "sha256":  "c65932704c0f7a062935e71e306010c6159c79b3ce686d2dd6b2733d9fe9ae46"
+                  },
+                  {
+                      "relative_path":  "models/steel_ball_yolov5n_fp16.rknn",
+                      "size":  4672833,
+                      "sha256":  "acd617243c10e2fdb62ccf9d92b1fc0c31dc260fec8325033c74dd60fc2b3198"
+                  },
+                  {
+                      "relative_path":  "models/steel_ball_yolov5n_int8.json",
+                      "size":  787,
+                      "sha256":  "47e364060af839ed548cedbea2511a4336212a807fb38ae125fc02034c360156"
+                  },
+                  {
+                      "relative_path":  "models/steel_ball_yolov5n_int8.rknn",
+                      "size":  2659061,
+                      "sha256":  "bfc19deea6e480bd3589e67bd3be155dd3b5bb35a23e8a2d329a1533cbb6f153"
+                  }
+              ]
+}

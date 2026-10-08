@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: rknn-toolkit-lite2
+Version: 2.3.2
+Summary: Rockchip Neural Network Toolkit Lite2. (commit: 1482e03)
+Home-page: https://github.com/airockchip/rknn-toolkit2/tree/master/rknn-toolkit-lite2
+Author: ai@rock-chips.com
+Author-email: ai@rock-chips.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: psutil
+Requires-Dist: ruamel.yaml
+
+# Introduction
+RKNN-Toolkit-Lite2 provides Python programming interfaces for Rockchip NPU platform to help users deploy RKNN models and accelerate the implementation of AI applications.
+
+For more details, please refer to https://github.com/airockchip/rknn-toolkit2
+
+# Download
+- You can also download all packages, docker image, examples, docs and platform-tools from [RKNPU2_SDK](https://console.zbox.filez.com/l/I00fc3), fetch code: rknn
+
+# Notes
+- Currently only support on:
+  - AArch64 Linux
+  - Python 3.7/3.8/3.9/3.10/3.11/3.12

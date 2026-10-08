@@ -1,0 +1,12 @@
+[submodule "rknn-toolkit2"]
+	path = 视觉/steel_ball_pipeline/vendor/rknn-toolkit2.partial_20260802_1542
+	url = https://github.com/airockchip/rknn-toolkit2.git
+	branch = master
+[submodule "rknn_model_zoo"]
+	path = 视觉/steel_ball_pipeline/vendor/rknn_model_zoo
+	url = https://github.com/airockchip/rknn_model_zoo.git
+	branch = main
+[submodule "yolov5-rkopt"]
+	path = 视觉/steel_ball_pipeline/vendor/yolov5-rkopt
+	url = https://github.com/airockchip/yolov5.git
+	branch = master

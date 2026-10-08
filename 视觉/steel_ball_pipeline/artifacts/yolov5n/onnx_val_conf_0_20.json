@@ -1,0 +1,40 @@
+{
+  "dataset": "D:\\University\\NUEDC\\datasets\\steel_ball_v2",
+  "split": "val",
+  "confidence_threshold": 0.2,
+  "iou_threshold": 0.5,
+  "subsets": {
+    "all_ball_frames": {
+      "frames": 335,
+      "matched": 331,
+      "recall": 0.9880597014925373
+    },
+    "dark_frames": {
+      "frames": 67,
+      "matched": 67,
+      "recall": 1.0
+    },
+    "strong_reflection": {
+      "frames": 67,
+      "matched": 67,
+      "recall": 1.0
+    },
+    "track_ends": {
+      "frames": 15,
+      "matched": 15,
+      "recall": 1.0
+    },
+    "high_blur": {
+      "frames": 67,
+      "matched": 67,
+      "recall": 1.0
+    }
+  },
+  "longest_consecutive_misses": 1,
+  "empty_frames": 0,
+  "false_positive_frames": 0,
+  "false_positives_per_1000_empty_frames": null,
+  "passes_ball_recall_99_percent": false,
+  "passes_max_3_consecutive_misses": true,
+  "passes_empty_fp_rate": false
+}
